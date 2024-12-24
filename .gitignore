@@ -1,0 +1,6 @@
+.vectorstore/
+__pycache__/
+cache/
+dev/
+doc_obj.pickle
+.env
